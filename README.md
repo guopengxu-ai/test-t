@@ -1,2 +1,2 @@
-# pg-mcp
-MCP server
+# test-t
+TEST
